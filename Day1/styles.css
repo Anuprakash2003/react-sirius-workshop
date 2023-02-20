@@ -1,0 +1,15 @@
+h1 {
+    color: green;
+    background-color: yellow;
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
+
+p {
+    color: blue;
+    background-color: aqua;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0;
+}
